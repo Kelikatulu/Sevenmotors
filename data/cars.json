@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "2018 Toyota Noah",
+    "price": 1850000,
+    "mileage": "88,000 km",
+    "engine": "2000 CC",
+    "drive": "2WD",
+    "fuel": "Petrol",
+    "image": "/images/noah.jpg"
+  },
+  {
+    "id": 2,
+    "name": "2017 Mazda CX-5",
+    "price": 2150000,
+    "mileage": "72,000 km",
+    "engine": "2200 CC",
+    "drive": "AWD",
+    "fuel": "Diesel",
+    "image": "/images/cx5.jpg"
+  }
+]
