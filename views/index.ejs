@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Seven Motors</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<header class="navbar">
+  <div class="logo">SEVEN MOTORS</div>
+  <div class="contact">📞 0707 533 344</div>
+</header>
+
+<section class="hero">
+  <h1>Sleek Cars. Smart Imports.</h1>
+  <p>Buy locally or import with confidence</p>
+</section>
+
+<section class="cars">
+  <h2>Available Cars</h2>
+
+  <div class="car-grid">
+    <% cars.forEach(car => { %>
+      <div class="car-card">
+        <img src="<%= car.image %>" alt="<%= car.name %>">
+        <h3><%= car.name %></h3>
+        <p class="price">KES <%= car.price.toLocaleString() %></p>
+
+        <ul>
+          <li><%= car.mileage %></li>
+          <li><%= car.engine %></li>
+          <li><%= car.drive %></li>
+          <li><%= car.fuel %></li>
+        </ul>
+
+        <a class="btn" href="https://wa.me/254707533344">WhatsApp</a>
+      </div>
+    <% }) %>
+  </div>
+</section>
+
+<section class="calculator">
+  <h2>Import Duty Calculator</h2>
+
+  <form id="calcForm">
+    <input type="number" id="value" placeholder="Car Value (KES)" required>
+    <input type="number" id="duty" value="25">
+    <input type="number" id="excise" value="20">
+    <input type="number" id="vat" value="16">
+    <button type="submit">Calculate</button>
+  </form>
+
+  <div id="result"></div>
+</section>
+
+<footer>
+  © 2026 Seven Motors
+</footer>
+
+<script src="/js/calculator.js"></script>
+</body>
+</html>
