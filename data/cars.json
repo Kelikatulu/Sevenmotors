@@ -20,3 +20,205 @@
     "image": "/images/cx5.jpg"
   }
 ]
+[
+  {
+    "id": 3,
+    "name": "2016 Toyota Axio",
+    "price": 980000,
+    "mileage": "96,000 km",
+    "engine": "1500 CC",
+    "drive": "2WD",
+    "fuel": "Petrol",
+    "image": "/images/axio.jpg"
+  },
+  {
+    "id": 4,
+    "name": "2017 Toyota Premio",
+    "price": 1450000,
+    "mileage": "82,000 km",
+    "engine": "1800 CC",
+    "drive": "2WD",
+    "fuel": "Petrol",
+    "image": "/images/premio.jpg"
+  },
+  {
+    "id": 5,
+    "name": "2018 Toyota Harrier",
+    "price": 2850000,
+    "mileage": "68,000 km",
+    "engine": "2000 CC",
+    "drive": "AWD",
+    "fuel": "Petrol",
+    "image": "/images/harrier.jpg"
+  },
+  {
+    "id": 6,
+    "name": "2016 Toyota Land Cruiser Prado",
+    "price": 4200000,
+    "mileage": "105,000 km",
+    "engine": "2800 CC",
+    "drive": "4WD",
+    "fuel": "Diesel",
+    "image": "/images/prado.jpg"
+  },
+  {
+    "id": 7,
+    "name": "2017 Mitsubishi Pajero",
+    "price": 3950000,
+    "mileage": "112,000 km",
+    "engine": "3200 CC",
+    "drive": "4WD",
+    "fuel": "Diesel",
+    "image": "/images/pajero.jpg"
+  },
+  {
+    "id": 8,
+    "name": "2018 Nissan X-Trail",
+    "price": 2350000,
+    "mileage": "74,000 km",
+    "engine": "2000 CC",
+    "drive": "AWD",
+    "fuel": "Petrol",
+    "image": "/images/xtrail.jpg"
+  },
+  {
+    "id": 9,
+    "name": "2019 Honda Vezel",
+    "price": 2250000,
+    "mileage": "61,000 km",
+    "engine": "1500 CC",
+    "drive": "2WD",
+    "fuel": "Hybrid",
+    "image": "/images/vezel.jpg"
+  },
+  {
+    "id": 10,
+    "name": "2017 Honda CR-V",
+    "price": 2550000,
+    "mileage": "79,000 km",
+    "engine": "2000 CC",
+    "drive": "AWD",
+    "fuel": "Petrol",
+    "image": "/images/crv.jpg"
+  },
+  {
+    "id": 11,
+    "name": "2018 Subaru Forester",
+    "price": 2450000,
+    "mileage": "70,000 km",
+    "engine": "2000 CC",
+    "drive": "AWD",
+    "fuel": "Petrol",
+    "image": "/images/forester.jpg"
+  },
+  {
+    "id": 12,
+    "name": "2016 Mercedes-Benz C200",
+    "price": 2650000,
+    "mileage": "85,000 km",
+    "engine": "2000 CC",
+    "drive": "RWD",
+    "fuel": "Petrol",
+    "image": "/images/c200.jpg"
+  },
+  {
+    "id": 13,
+    "name": "2017 Mercedes-Benz C63 AMG",
+    "price": 6850000,
+    "mileage": "54,000 km",
+    "engine": "4000 CC",
+    "drive": "RWD",
+    "fuel": "Petrol",
+    "image": "/images/c63.jpg"
+  },
+  {
+    "id": 14,
+    "name": "2016 Toyota Mark X",
+    "price": 1750000,
+    "mileage": "90,000 km",
+    "engine": "2500 CC",
+    "drive": "RWD",
+    "fuel": "Petrol",
+    "image": "/images/markx.jpg"
+  },
+  {
+    "id": 15,
+    "name": "2018 Mazda Demio",
+    "price": 1150000,
+    "mileage": "66,000 km",
+    "engine": "1300 CC",
+    "drive": "2WD",
+    "fuel": "Petrol",
+    "image": "/images/demio.jpg"
+  },
+  {
+    "id": 16,
+    "name": "2017 Nissan Note",
+    "price": 950000,
+    "mileage": "88,000 km",
+    "engine": "1200 CC",
+    "drive": "2WD",
+    "fuel": "Petrol",
+    "image": "/images/note.jpg"
+  },
+  {
+    "id": 17,
+    "name": "2019 Toyota Hilux",
+    "price": 3650000,
+    "mileage": "92,000 km",
+    "engine": "2400 CC",
+    "drive": "4WD",
+    "fuel": "Diesel",
+    "image": "/images/hilux.jpg"
+  },
+  {
+    "id": 18,
+    "name": "2018 Isuzu D-Max",
+    "price": 3550000,
+    "mileage": "98,000 km",
+    "engine": "3000 CC",
+    "drive": "4WD",
+    "fuel": "Diesel",
+    "image": "/images/dmax.jpg"
+  },
+  {
+    "id": 19,
+    "name": "2017 Toyota Wish",
+    "price": 1350000,
+    "mileage": "84,000 km",
+    "engine": "1800 CC",
+    "drive": "2WD",
+    "fuel": "Petrol",
+    "image": "/images/wish.jpg"
+  },
+  {
+    "id": 20,
+    "name": "2018 Subaru Outback",
+    "price": 2750000,
+    "mileage": "73,000 km",
+    "engine": "2500 CC",
+    "drive": "AWD",
+    "fuel": "Petrol",
+    "image": "/images/outback.jpg"
+  },
+  {
+    "id": 21,
+    "name": "2019 Lexus RX 450h",
+    "price": 5650000,
+    "mileage": "59,000 km",
+    "engine": "3500 CC",
+    "drive": "AWD",
+    "fuel": "Hybrid",
+    "image": "/images/rx450h.jpg"
+  },
+  {
+    "id": 22,
+    "name": "2018 BMW X5",
+    "price": 4850000,
+    "mileage": "77,000 km",
+    "engine": "3000 CC",
+    "drive": "AWD",
+    "fuel": "Diesel",
+    "image": "/images/x5.jpg"
+  }
+]
